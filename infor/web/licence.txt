@@ -1,0 +1,77 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nama Template: Dapat Dipresentasikan
+Berkas: Lisensi
+Penulis: OS Templates
+URI Penulis: http://www.os-templates.com/
+URI Lisensi: http://www.os-templates.com/template-terms
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+HAKI
+---
+
+Hak Kekayaan Intelektual (HAKI) dimiliki dan tetap dimiliki oleh OS Templates dan pemiliknya.
+
+KETENTUAN PENGGUNAAN
+------------
+
+Templat ini dapat digunakan untuk situs web pribadi dan komersial dengan ketentuan berikut:
+
+* Anda harus mencantumkan karya dengan cara yang ditentukan oleh OS Templates (penulis dan pemberi lisensi - lihat bagian Atribusi di bawah).
+
+* Jika Anda menggunakan karya kami untuk situs web klien atau teman Anda, Anda harus memberi tahu mereka tentang lisensi yang disertakan dengan templat
+
+* Anda tidak dapat mengklaim hak kekayaan intelektual atau kepemilikan eksklusif atas templat kami, yang dimodifikasi atau tidak dimodifikasi. Semua templat adalah milik OS Templates.
+
+* Anda tidak diizinkan untuk menempatkan templat kami, baik yang dimodifikasi atau tidak dimodifikasi, pada disket, CD, situs web, atau media lain apa pun untuk didistribusikan ulang, dijual, atau dijual kembali.
+
+* Anda tidak dapat menawarkan templat kami untuk didistribusikan ulang dalam bentuk apa pun tanpa persetujuan tertulis sebelumnya dari kami.
+
+* Anda tidak diizinkan untuk memindahkan/mengonversi templat kami untuk CMS, sistem Blog, atau bentuk lain dari sistem konten yang dikelola secara dinamis untuk didistribusikan/didistribusikan ulang pada disket, CD, situs web, atau media lain apa pun atau untuk dijual atau dijual kembali.
+
+Anda hanya dapat memindahkan/mengonversi templat untuk penggunaan pribadi Anda dan jika klien meminta Anda untuk memindahkan templat untuk mereka.
+
+* Anda tidak dapat menjual atau menawarkan templat kami untuk dijual. Ini juga termasuk menawarkan templat kami sebagai bagian dari paket produk. Anda dapat menjual layanan Anda, tetapi tidak dengan templat kami.
+
+ATRIBUSI
+-----------
+
+Semua templat yang dapat ditemukan di situs ini memiliki informasi hak cipta dan tautan kredit, yang dapat ditemukan di bagian bawah templat dan di berbagai berkas CSS.
+
+Tautan kredit dan informasi hak cipta harus tetap tidak dimodifikasi di semua halaman web yang menggunakan templat kami.
+
+Tautan kredit default yang dapat ditemukan di footer templat (kode sumber) adalah: <p class="fl_right">Templat oleh <a href="http://www.os-templates.com/" title="Templat Situs Web Gratis">Templat OS</a></p>
+
+Tautan footer default dapat diubah menjadi:
+
+Kode oleh Templat OS
+<p class="fl_right">Kode oleh <a href="http://www.os-templates.com/" title="Templat Situs Web Gratis">Templat OS</a></p>
+
+Desain oleh Templat OS
+<p class="fl_right">Desain oleh <a href="http://www.os-templates.com/" title="Templat Situs Web Gratis">Templat OS</a></p>
+
+Terima kasih kepada Templat OS
+<p class="fl_right">Terima kasih kepada <a href="http://www.os-templates.com/" title="Templat Situs Web Gratis">Templat OS</a></p>
+
+Untuk perusahaan atau individu yang ingin menambahkan informasi mereka ke footer template, silakan ubah tautan seperti ini:
+
+Situs web oleh YOURDETAILS & OS Templates
+<p class="fl_right">Situs web oleh <a href="YOURURL">YOURDETAILS</a> & <a href="http://www.os-templates.com/" title="Template Situs Web Gratis">OS Templates</a></p>
+
+INFO HAK CIPTA & TAUTAN KREDIT
+-----------------------------
+
+ANDA TIDAK DIIZINKAN MENGHAPUS TAUTAN KREDIT DAN/ATAU INFORMASI HAK CIPTA DARI FOOTER TEMPLATE ATAU FILE CSS ATAU JAVASCRIPT YANG MENYERTAINYA
+
+OS Templates TIDAK menawarkan penghapusan tautan berbayar atau penghapusan hak cipta berbayar.
+
+Semua template dan karya digital yang dapat ditemukan di http://www.os-templates.com/ telah diajukan secara global ke berbagai Kantor Hak Cipta. Jika Anda menyalahgunakan karya digital kami, kami akan meminta ganti rugi dan Anda akan dituntut.
+
+Jika tautan kredit dan/atau informasi hak cipta sengaja dihapus dari karya digital kami, tindakan hukum akan diambil terhadap mereka yang melakukannya.
+
+Harap hargai karya kami, banyak waktu telah diinvestasikan pada karya yang dapat ditemukan di situs ini.
+
+Menghapus tautan kredit dari templat dapat dan akan mengakibatkan tindakan hukum. Tidak sulit untuk mengetahui di mana templat kami digunakan dan siapa yang menggunakannya.
